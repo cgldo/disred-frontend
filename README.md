@@ -15,7 +15,7 @@ Frontend on Vercel and backend on AWS Ec2
 
 
 ## Current State of Website Demo
-![Demo](demo.jpg?raw=true "Demo screen")
+![Demo](demo.JPG?raw=true "Demo screen")
 
 
 ## Link to current version of working backend
