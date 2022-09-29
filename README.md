@@ -8,16 +8,17 @@ Frontend on Vercel and backend on AWS Ec2
 - [x] Connect the hosted frontend and backend
 - [x] Add REST backend requests
 - [x] Initial working posts page
-- [] Initial working comments dropdown
-- [] Add captcha for commenting
-- [] Change from HTTP to HTTPS
-- [] Add login and user session
-## Example Game
+- [ ] Initial working comments dropdown
+- [ ] Add captcha for commenting
+- [ ] Change from HTTP to HTTPS
+- [ ] Add login and user session
 
-![Gameplay](demo.jpg?raw=true "Demo screen")
-## Play Instruction
 
-Link to current version of working backend
+## Current State of Website Demo
+![Demo](demo.jpg?raw=true "Demo screen")
+
+
+## Link to current version of working backend
 https://github.com/cgldo/Disred-Backend
 
 
